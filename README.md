@@ -69,9 +69,14 @@ ________________________________________
 •	Router configuration screen<br>
 •	Successful ping test between the two PCs<br>
 
-<img width="1912" height="1077" alt="Screenshot 2026-10-24 105910" src="https://github.com/user-attachments/assets/7a79bac4-b692-483e-b8f1-764d4cf75f2d" />
+<img width="1896" height="1076" alt="Screenshot 2026-10-27 160118" src="https://github.com/user-attachments/assets/61824ffe-e6a3-44f0-916c-b25a68534ba1" />
 
-<img width="1910" height="1078" alt="Screenshot 2026-10-24 105926" src="https://github.com/user-attachments/assets/009fdd78-cd4f-41ba-8978-c9629f25f324" />
+<img width="1741" height="1045" alt="Screenshot 2026-10-27 160019" src="https://github.com/user-attachments/assets/d1a11946-7518-4339-9bb6-9cd692cfa0b1" />
+
+<img width="1775" height="1047" alt="Screenshot 2026-10-27 160130" src="https://github.com/user-attachments/assets/51bc88af-4492-4bec-acea-b27b91a95747" />
+
+<img width="1787" height="1072" alt="Screenshot 2026-10-27 160034" src="https://github.com/user-attachments/assets/864f58c5-bd2f-42a7-a6ee-c671c62d5796" />
+
 
 <img width="1912" height="1072" alt="Screenshot 2026-10-24 105759" src="https://github.com/user-attachments/assets/ebd42454-8588-4435-bbf6-8afa408e587f" />
 
